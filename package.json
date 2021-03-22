@@ -1,5 +1,5 @@
 {
-  "name": "react-commonmark",
+  "name": "@sonatype/react-commonmark",
   "description": "Renders Commonmark/Markdown as React components",
   "version": "3.0.0",
   "keywords": [
@@ -23,7 +23,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:rexxars/react-commonmark.git"
+    "url": "git@github.com:sonatype/react-commonmark.git"
   },
   "author": "Espen Hovlandsdal <espen@hovlandsdal.com>",
   "license": "MIT",
