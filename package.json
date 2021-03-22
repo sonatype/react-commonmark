@@ -1,7 +1,7 @@
 {
   "name": "@sonatype/react-commonmark",
   "description": "Renders Commonmark/Markdown as React components",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "keywords": [
     "commonmark",
     "markdown",
@@ -51,8 +51,8 @@
     "staticpath": "demo/dist"
   },
   "dependencies": {
-    "commonmark": "^0.29.1",
     "@sonatype/commonmark-react-renderer": "^4.3.6",
+    "commonmark": "^0.29.1",
     "in-publish": "^2.0.0",
     "prop-types": "^15.5.10"
   },
