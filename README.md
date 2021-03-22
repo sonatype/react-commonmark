@@ -1,3 +1,11 @@
+# Fork
+
+This repository is a fork of https://github.com/rexxars/react-commonmark created in order to upgrade the commonmark
+dependency. This fork is to be published under the package name `@sonatype/react-commonmark`, whereas the original
+is simply `react-commonmark`.
+
+The rest of this README from here down is copied from the original repository.
+
 # react-commonmark
 
 Renders Commonmark (a strongly defined, highly compatible specification of Markdown) as pure React components. If you want to support features not in the commonmark specification, you probably want to use [react-markdown](https://github.com/rexxars/react-markdown) instead.
