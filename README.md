@@ -4,20 +4,19 @@ This repository is a fork of https://github.com/rexxars/react-commonmark created
 dependency. This fork is to be published under the package name `@sonatype/react-commonmark`, whereas the original
 is simply `react-commonmark`.
 
-The rest of this README from here down is copied from the original repository.
+The rest of this README from here down is copied from the original repository, with references to the component name
+updated.
 
 # react-commonmark
 
 Renders Commonmark (a strongly defined, highly compatible specification of Markdown) as pure React components. If you want to support features not in the commonmark specification, you probably want to use [react-markdown](https://github.com/rexxars/react-markdown) instead.
-
-[![npm version](http://img.shields.io/npm/v/react-commonmark.svg?style=flat-square)](http://browsenpm.org/package/react-commonmark)[![Build Status](http://img.shields.io/travis/rexxars/react-commonmark/master.svg?style=flat-square)](https://travis-ci.org/rexxars/react-commonmark)
 
 Demo available at http://rexxars.github.io/react-commonmark/
 
 ## Installing
 
 ```
-npm install --save react-commonmark
+npm install --save @sonatype/react-commonmark
 ```
 
 ## Basic usage
